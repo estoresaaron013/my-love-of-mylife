@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/my-love-of-mylife/static/css/main.c04afad7.css",
+    "main.js": "/my-love-of-mylife/static/js/main.d259a6f1.js",
+    "static/js/787.100d3508.chunk.js": "/my-love-of-mylife/static/js/787.100d3508.chunk.js",
+    "static/media/IMG_1137.png": "/my-love-of-mylife/static/media/IMG_1137.50d61f6f08d60d2f20b8.png",
+    "index.html": "/my-love-of-mylife/index.html",
+    "main.c04afad7.css.map": "/my-love-of-mylife/static/css/main.c04afad7.css.map",
+    "main.d259a6f1.js.map": "/my-love-of-mylife/static/js/main.d259a6f1.js.map",
+    "787.100d3508.chunk.js.map": "/my-love-of-mylife/static/js/787.100d3508.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c04afad7.css",
+    "static/js/main.d259a6f1.js"
+  ]
+}
